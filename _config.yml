@@ -10,7 +10,7 @@
 locale                   : "en-US"
 title                    : "Academic site"
 title_separator          : "-"
-name                     : &name "Your Name"
+name                     : &name "Victor Cruz-Aceves"
 description              : &description "personal description"
 url                      : https://victor-cruz-aceves.github.io/
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
