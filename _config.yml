@@ -24,9 +24,9 @@ author:
   avatar           : "profile.png"
   name             : "Dr. Victor Cruz-Aceves"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  bio              : "Data scientist at ISPK"
+  location         : "Kiel"
+  employer         : "Institute for Security Policy at Kiel University (ISPK)"
   uri              : # URL
   email            : "none@example.org" 
 
