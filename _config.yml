@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Data science; terrorism/social media radicalization"
+title                    : "Victor Cruz-Aceves, PhD"
 title_separator          : "-"
 name                     : &name "Dr. Cruz-Aceves"
 description              : &description "personal description"
@@ -22,9 +22,9 @@ repository               : "victor-cruz-aceves/victor-cruz-aceves.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Victor Cruz-Aceves, PhD"
+  name             : ""
   pronouns         : # example: "she/her"  
-  bio              : "Data scientist at ISPK"
+  bio              : "Data scientist. Research on Terrorism and Radicalization on social media."
   location         : "Kiel"
   employer         : "Institute for Security Policy at Kiel University (ISPK)"
   uri              : # URL
