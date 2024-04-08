@@ -8,9 +8,9 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Academic site"
+title                    : "Data science; terrorism/social media radicalization"
 title_separator          : "-"
-name                     : &name "Victor Cruz-Aceves"
+name                     : &name "Dr. Cruz-Aceves"
 description              : &description "personal description"
 url                      : https://victor-cruz-aceves.github.io/
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -22,7 +22,7 @@ repository               : "victor-cruz-aceves/victor-cruz-aceves.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Dr. Victor Cruz-Aceves"
+  name             : "Victor Cruz-Aceves, PhD"
   pronouns         : # example: "she/her"  
   bio              : "Data scientist at ISPK"
   location         : "Kiel"
