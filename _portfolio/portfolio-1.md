@@ -1,6 +1,6 @@
 ---
 title: ""
-excerpt: "Cruz-Aceves, Victor (2021b): [The Diffusion of Morality Policies. State-Level Comparative Analyses in the United States of America](https://www.nomos-shop.de/nomos/titel/the-diffusion-of-morality-policies-id-100739/). Nomos Verlag."
+excerpt: "Cruz-Aceves, Victor et. al. (2024): ERAME und ERAME-REX - KI-basierte Beobachtung und Auswertung von Radikalisierung in Sozialen Medien. Poster/software-demo at the Monitoringsystem und Transferplattform Radikalisierung [(MOTRA-K) Conference](https://www.motra.info/motra-k-2024/) in Wiesbaden, Germany"
 collection: portfolio
 ---
 
