@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: ""
+title: "Short CV"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -21,22 +21,9 @@ In construction. For the meantime, check my work experience on [my profile on my
 
 Skills
 ======
-* Analytics
-  * Advanced statistics/Econometrics
-  * Machine learning
-  * Natural Language Processing
-  * Text-as-data analytics
-* Programming languages
-  * Python
-  * R
-  * Ruby
-  * Mata (Stata)
-  * Git
-* Languages
-  * English
-  * German
-  * Spanish
-  * French
+* **Analytics**: advanced statistics/Econometrics, Machine learning, Natural Language Processing (NLP) and text-as-data analytics.
+* **Programming**: Python, R, Ruby, Mata (Stata) and git.
+* **Languages**: English, German, Spanish and French.
 
 Publications
 ======
