@@ -21,12 +21,22 @@ In construction. For the meantime, check my work experience on [my profile on my
 
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Analytics
+  * Advanced statistics/Econometrics
+  * Machine learning
+  * Natural Language Processing
+  * Text-as-data analytics
+* Programming languages
+  * Python
+  * R
+  * Ruby
+  * Mata (Stata)
+  * Git
+* Languages
+  * English
+  * German
+  * Spanish
+  * French
 
 Publications
 ======
