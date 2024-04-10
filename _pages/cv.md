@@ -17,7 +17,7 @@ Education
 
 Work experience
 ======
-In construction. For the meantime, check my work experience on [my profile on my employer's website](https://www.ispk.uni-kiel.de/en/staff/staff/dr-victor-cruz-aceves?set_language=en) 
+Section under construction. For the meantime, check my work experience on [my profile on my employer's website](https://www.ispk.uni-kiel.de/en/staff/staff/dr-victor-cruz-aceves?set_language=en) 
 
 Skills
 ======
@@ -29,7 +29,7 @@ Publications
 ======
 Section under construction. In the meantime, check the [Publications section](https://victor-cruz-aceves.github.io//portfolio/) of the website or on [my profile on my employer's website](https://www.ispk.uni-kiel.de/en/staff/staff/dr-victor-cruz-aceves?set_language=en)
   
-Media
+TV Appearances
 ======
   <ul>{% for post in site.talks reversed %}
     {% include archive-single-talk-cv.html  %}
