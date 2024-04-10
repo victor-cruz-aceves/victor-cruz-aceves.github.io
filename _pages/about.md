@@ -7,15 +7,13 @@ redirect_from:
   - /about.html
 ---
 
-Hi, I'm Victor, research associate at the [Institute for Security Policy at Kiel University (ISPK)](https://www.ispk.uni-kiel.de/en). I am currently working as a **data scientist** for the projects [ERAME](https://www.ispk.uni-kiel.de/de/abteilungen/abteilung-terrorismus-und-radikalisierungsforschung/publikationen/download/projektumriss_erame.pdf) and [ERAME-Rex](https://www.ispk.uni-kiel.de/de/abteilungen/abteilung-terrorismus-und-radikalisierungsforschung/publikationen/download/projektumriss_erame-rex.pdf), which are **funded by Germany's** [Federal Ministry of Education and Research](https://www.bmbf.de/bmbf/en/home/home_node.html) **(BMBF)** to develop software solutions that use (among other things) **machine learning** and [Natural Language Processing](https://en.wikipedia.org/wiki/Natural_language_processing) **(NLP)** to identify a) **islamic** and b) **extreme-right radicalization** on **YouTube** and **Telegram**.
+Hi, I'm Victor, research associate at the [Institute for Security Policy at Kiel University (ISPK)](https://www.ispk.uni-kiel.de/en). I am currently working as **data scientist** for the projects [ERAME](https://www.ispk.uni-kiel.de/de/abteilungen/abteilung-terrorismus-und-radikalisierungsforschung/publikationen/download/projektumriss_erame.pdf) and [ERAME-Rex](https://www.ispk.uni-kiel.de/de/abteilungen/abteilung-terrorismus-und-radikalisierungsforschung/publikationen/download/projektumriss_erame-rex.pdf), which are **funded by Germany's** [Federal Ministry of Education and Research](https://www.bmbf.de/bmbf/en/home/home_node.html) **(BMBF)** to develop software solutions that use (among other things) **machine learning** and [Natural Language Processing](https://en.wikipedia.org/wiki/Natural_language_processing) **(NLP)** to identify a) **islamic** and b) **extreme-right radicalization** on **YouTube** and **Telegram**.
+
+Previously, I worked as research associate and taught courses in the political science department (for 6 years) and in the sociology department (1 year) at the [Christian-Albrechts-Universität zu Kiel](https://www.uni-kiel.de/en/) (Germany), from where I obtained my PhD in 2018.
+
+By clicking on the following links, you can find some of my [publications and working papers](https://victor-cruz-aceves.github.io//portfolio/), [TV appearances](https://victor-cruz-aceves.github.io//talks/) and a very short version of my [CV](https://victor-cruz-aceves.github.io//cv/), where you can also find a summary of my language,**programming and analytical skills**.
 
 Contact
 ======
 If you want to contact me, please use any of the options listed [here](https://www.ispk.uni-kiel.de/en/staff/staff/dr-victor-cruz-aceves).
 
-Another subsection
-======
-Will also be added.
-
-Third subsection
-------
