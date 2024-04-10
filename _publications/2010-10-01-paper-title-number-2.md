@@ -9,5 +9,3 @@ paperurl: 'https://journals.sagepub.com/doi/abs/10.1177/1532440017751421?journal
 citation: 'Cruz Aceves, Victor and Beer, Caroline. (2021). &quot;Extending Rights to Marginalized Minorities: Same-Sex Relationship Recognition in Mexico and the United States..&quot; <i>State Politics & Policy Quarterly</i>. Volume 18, Issue 1
 .'
 ---
-
-The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
