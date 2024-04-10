@@ -27,9 +27,7 @@ Skills
 
 Publications
 ======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+Section under construction. In the meantime, check the [Publications section](https://victor-cruz-aceves.github.io//portfolio/) of the website or on [my profile on my employer's website](https://www.ispk.uni-kiel.de/en/staff/staff/dr-victor-cruz-aceves?set_language=en)
   
 Media
 ======
