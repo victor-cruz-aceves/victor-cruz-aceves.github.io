@@ -11,7 +11,7 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Political science, Christian-Albrechts-Universität zu Kiel (Germany), 2018
+* Ph.D in Political science, [Christian-Albrechts-Universität zu Kiel](https://www.uni-kiel.de/en/) (Germany), 2018
 * M.A. in Public management and governance, Zeppelin Universität (Germany), 2011
 * B.A. in International economic relations, Universidad Autónoma del Estado de México, 2008
 
