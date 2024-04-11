@@ -11,9 +11,10 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Political science, Christian-Albrechts-Universität zu Kiel (Germany), 2018
-* M.A. in Public management and governance, Zeppelin Universität (Germany), 2011
-* B.A. in International economic relations, Universidad Autónoma del Estado de México, 2008
+* **Ph.D.** in Political science, *Christian-Albrechts-Universität zu Kiel* (Germany), 2018
+  * Note: **Magna Cum Laude** (**1,1**) 
+* **M.A.** in Public Management and Governments, *Zeppelin Universität* (Germany), 2011
+* **B.A.** in International Economic Relations, *UAEM* (Mexico) & *MENDELU* (Czech Republic), 2008
 
 Work experience
 ======
@@ -21,7 +22,7 @@ Section under construction. For the meantime, check my work experience on [my pr
 
 Skills
 ======
-* **Analytics**: advanced statistics/Econometrics, Machine learning, Natural Language Processing (NLP) and text-as-data analytics.
+* **Methods/Analytics**: advanced statistics/Econometrics, Machine learning, Natural Language Processing (NLP) and text-as-data analytics.
 * **Programming**: Python, R, Ruby, Mata (Stata) and git.
 * **Languages**: English, German, Spanish and French.
 
