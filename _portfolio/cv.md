@@ -3,8 +3,7 @@ layout: archive
 title: "Publications"
 permalink: /portfolio/
 author_profile: true
-redirect_from:
-  - /resume
+collection: portfolio
 ---
 
 {% include base_path %}
