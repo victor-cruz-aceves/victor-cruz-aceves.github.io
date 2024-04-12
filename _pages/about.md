@@ -11,7 +11,7 @@ Hi, I'm Victor, research associate at the [Department for Research on Terrorism 
 
 Previously, I worked as research associate and **taught courses in German and in English** in the political science department (for 8 years) and in the sociology department (1 year) at the [Christian-Albrechts-Universität zu Kiel (Germany)](https://www.uni-kiel.de/en/), from where I obtained my **PhD in 2018**.
 
-I have both **substantial and methodological** peer-reviewed publications in [*State Politics & Policy Quarterly*](https://www.cambridge.org/core/journals/state-politics-and-policy-quarterly), [*State and Local Government Review*](https://journals.sagepub.com/home/SLG) and [*Nomos Publishing*](https://www.nomos.de/en/) (see section [publications](https://victor-cruz-aceves.github.io//portfolio/)).
+I have both **substantial and methodological** peer-reviewed publications in [*State Politics & Policy Quarterly*](https://www.cambridge.org/core/journals/state-politics-and-policy-quarterly), [*State and Local Government Review*](https://journals.sagepub.com/home/SLG) and [*Nomos Publishing*](https://www.nomos.de/en/) (see section [publications](https://victor-cruz-aceves.github.io//portfolio/) or my profile on [ResearchGate](https://www.researchgate.net/profile/Victor-Cruz-Aceves-2/research)).
 
 By clicking on the following links, you will find my [appearances on TV](https://victor-cruz-aceves.github.io//talks/) and a short version of my [CV](https://victor-cruz-aceves.github.io//cv/), where you will also find a summary of my language, **programming** and **analytical/methods skills**.
 
