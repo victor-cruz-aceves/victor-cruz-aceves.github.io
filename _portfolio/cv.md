@@ -12,4 +12,4 @@ collection: portfolio
 
 ||||
 |:-:|:-:|:-:|
-|![Alt text](../images/v2_s_MOTRA-K-Poster_geschw%C3%A4rzt.jpg) Poster|Second image| Third image|
+|<img src="../images/v2_s_MOTRA-K-Poster_geschw%C3%A4rzt.jpg" width="200" />Poster|Second image| Third image|
