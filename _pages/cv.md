@@ -28,7 +28,9 @@ Skills
 
 Publications
 ======
-Section under construction. In the meantime, check the [Publications section](https://victor-cruz-aceves.github.io//portfolio/) of this website, my research on [ResearchGate](https://www.researchgate.net/profile/Victor-Cruz-Aceves-2/research) or on [my employer's website](https://www.ispk.uni-kiel.de/en/staff/staff/dr-victor-cruz-aceves?set_language=en)
+  <ul>{% for post in site.publications reversed %}
+    {% include archive-single-cv.html %}
+  {% endfor %}</ul>
   
 TV Appearances
 ======
