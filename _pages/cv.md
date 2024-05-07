@@ -13,7 +13,7 @@ Education
 ======
 * **Ph.D.** in Political science, *Christian-Albrechts-Universität zu Kiel* (Germany), 2018
   * Note: [Magna Cum Laude](https://en.wikipedia.org/wiki/Latin_honors#Germany)/[1,1](https://en.wikipedia.org/wiki/Academic_grading_in_Germany#Tertiary_education) (equivalent to [~ 4 GPA in the US](https://en.wikipedia.org/wiki/Academic_grading_in_Germany#Overview)) 
-* **M.A.** in Public Management and Governments, *Zeppelin Universität* (Germany), 2011
+* **M.A.** in Public Management and Governance, *Zeppelin Universität* (Germany), 2011
 * **B.A.** in International Economic Relations, *UAEM* (Mexico) & *MENDELU* (Czech Republic), 2008
 
 Work experience
