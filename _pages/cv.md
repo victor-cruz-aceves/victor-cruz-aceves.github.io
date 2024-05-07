@@ -28,7 +28,8 @@ Skills
 
 Publications
 ======
-* "Cruz-Aceves, Victor et. al. (2024): **ERAME und ERAME-REX - KI-basierte Beobachtung und Auswertung von Radikalisierung in Sozialen Medien**. Poster/software-demo at the *Monitoringsystem und Transferplattform Radikalisierung* [*(MOTRA-K) Conference*](https://www.motra.info/motra-k-2024/) in Wiesbaden, Germany"
+* Cruz-Aceves, Victor et. al. (2024): **ERAME und ERAME-REX - KI-basierte Beobachtung und Auswertung von Radikalisierung in Sozialen Medien**. Poster/software-demo at the *Monitoringsystem und Transferplattform Radikalisierung* [*(MOTRA-K) Conference*](https://www.motra.info/motra-k-2024/) in Wiesbaden, Germany
+* Cruz-Aceves, Victor; Jost, Jannis (2022): **Automated identification of islamic radicalization in social media**. Presentation at the *Monitoringsystem und Transferplattform Radikalisierung (MOTRA-K)* Conference in Wiesbaden, Germany.
   
 TV Appearances
 ======
