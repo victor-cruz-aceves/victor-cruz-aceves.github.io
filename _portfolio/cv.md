@@ -16,3 +16,5 @@ collection: portfolio
 * Cruz-Aceves, Victor; Jost, Jannis (2022): **Automated identification of islamic radicalization in social media**. Presentation at the *Monitoringsystem und Transferplattform Radikalisierung (MOTRA-K)* Conference in Wiesbaden, Germany.
 
 * **(Book)** Cruz-Aceves, Victor (2021b): [The Diffusion of Morality Policies. State-Level Comparative Analyses in the United States of America](https://www.nomos-shop.de/nomos/titel/the-diffusion-of-morality-policies-id-100739/). Publishedd by [*Nomos Publishing*](https://www.nomos.de/en/).
+
+* Cruz-Aceves, Victor (2021a): [Social-Network (Facebook) Connectedness and COVID-19 Outbreak in German Municipalities.](https://www.researchgate.net/publication/348265859_Social-Network_Facebook_Connectedness_and_COVID-19_Outbreak_in_German_Municipalities) (Working paper).
