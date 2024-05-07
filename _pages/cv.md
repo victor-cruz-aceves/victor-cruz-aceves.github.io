@@ -12,7 +12,7 @@ redirect_from:
 Education
 ======
 * **Ph.D.** in Political science, *Christian-Albrechts-Universität zu Kiel* (Germany), 2018
-  * Note: **Magna Cum Laude** (**1,1**) 
+  * Note: [Magna Cum Laude](https://en.wikipedia.org/wiki/Latin_honors#Germany)/[1,1](https://en.wikipedia.org/wiki/Academic_grading_in_Germany#Tertiary_education) (equivalent to [~ 4 GPA in the US](https://en.wikipedia.org/wiki/Academic_grading_in_Germany#Overview)) 
 * **M.A.** in Public Management and Governments, *Zeppelin Universität* (Germany), 2011
 * **B.A.** in International Economic Relations, *UAEM* (Mexico) & *MENDELU* (Czech Republic), 2008
 
@@ -38,7 +38,7 @@ Publications
 
 * Beer, Caroline; Cruz-Aceves, Victor (2018): [Extending Rights to Marginalized Minorities. Same-Sex Relationship Recognition in Mexico and the United States](https://www.cambridge.org/core/journals/state-politics-and-policy-quarterly/article/abs/extending-rights-to-marginalized-minorities-samesex-relationship-recognition-in-mexico-and-the-united-states/A70979049B8F29EA6DA27F69D8A931C7). In [*State Politics & Policy Quarterly*](https://www.cambridge.org/core/journals/state-politics-and-policy-quarterly) 18 (1), pp. 3–26. DOI: 10.1177/1532440017751421
 
-* Cruz-Aceves, Victor (2018): **The Diffusion of Morality Policies**. PhD/Doctoral dissertation. *Christian-Albrechts-Universität zu Kiel* (Germany). Note: [*Magna Cum Laude*](https://en.wikipedia.org/wiki/Latin_honors#Germany)/[1,1](https://en.wikipedia.org/wiki/Academic_grading_in_Germany#Tertiary_education) ([US-GPA: ~ 4](https://en.wikipedia.org/wiki/Academic_grading_in_Germany#Overview))
+* Cruz-Aceves, Victor (2018): **The Diffusion of Morality Policies**. PhD/Doctoral dissertation. *Christian-Albrechts-Universität zu Kiel* (Germany). Note: [Magna Cum Laude](https://en.wikipedia.org/wiki/Latin_honors#Germany)/[1,1](https://en.wikipedia.org/wiki/Academic_grading_in_Germany#Tertiary_education) (equivalent to [~ 4 GPA in the US](https://en.wikipedia.org/wiki/Academic_grading_in_Germany#Overview))
   
 TV Appearances
 ======
