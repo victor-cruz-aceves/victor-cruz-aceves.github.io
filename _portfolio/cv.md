@@ -30,5 +30,7 @@ collection: portfolio
 <img src="../images/2019_article/table_1.jpg" width="240" />
 </p>
 * Beer, Caroline; Cruz-Aceves, Victor (2018): [Extending Rights to Marginalized Minorities. Same-Sex Relationship Recognition in Mexico and the United States](https://www.cambridge.org/core/journals/state-politics-and-policy-quarterly/article/abs/extending-rights-to-marginalized-minorities-samesex-relationship-recognition-in-mexico-and-the-united-states/A70979049B8F29EA6DA27F69D8A931C7). In [*State Politics & Policy Quarterly*](https://www.cambridge.org/core/journals/state-politics-and-policy-quarterly) 18 (1), pp. 3–26. DOI: 10.1177/1532440017751421
-
+<p align="middle">
+<img src="../images/2018_article/table_1.jpg" width="240" />
+</p>
 * Cruz-Aceves, Victor (2018): **The Diffusion of Morality Policies**. PhD/Doctoral dissertation. *Christian-Albrechts-Universität zu Kiel* (Germany). Note: [Magna Cum Laude](https://en.wikipedia.org/wiki/Latin_honors#Germany)/[1,1](https://en.wikipedia.org/wiki/Academic_grading_in_Germany#Tertiary_education) (equivalent to [~ 4 GPA in the US](https://en.wikipedia.org/wiki/Academic_grading_in_Germany#Overview))
