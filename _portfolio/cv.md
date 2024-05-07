@@ -23,7 +23,7 @@ collection: portfolio
 </p>
 * Cruz-Aceves, Victor (2021a): [Social-Network (Facebook) Connectedness and COVID-19 Outbreak in German Municipalities.](https://www.researchgate.net/publication/348265859_Social-Network_Facebook_Connectedness_and_COVID-19_Outbreak_in_German_Municipalities) (Working paper).
 <p align="middle">
-<img src="../images/social_connectedness/covid_germany.jpeg" width="240" /> <img src="../images/social_connectedness/equation_1.jpeg" width="240" /> <img src="../images/social_connectedness/f1_covid_germany.jpeg" width="240" /> <img src="../images/social_connectedness/f3_binscatter.jpeg" width="240" /> <img src="../images/social_connectedness/f6_binscatter.jpeg" width="240" /> <img src="../images/social_connectedness/heinsberg_connectedness.jpeg" width="240" /> <img src="../images/social_connectedness/kiel_freiburg_europe.jpeg" width="240" />
+<img src="../images/social_connectedness/covid_germany.jpeg" width="240" />  <img src="../images/social_connectedness/f3_binscatter.jpeg" width="240" /> <img src="../images/social_connectedness/heinsberg_connectedness.jpeg" width="240" /> <img src="../images/social_connectedness/kiel_freiburg_europe.jpeg" width="240" />
 </p>
 * Cruz-Aceves, Victor; Mallinson, Daniel (2019): [Clarifying the Measurement of Relative Ideology in Policy Diffusion Research](https://journals.sagepub.com/doi/10.1177/0160323X20902818). In [*State and Local Government Review*](https://journals.sagepub.com/home/SLG) 51 (3), pp. 179–186. DOI: 10.1177/0160323X20902818
 
