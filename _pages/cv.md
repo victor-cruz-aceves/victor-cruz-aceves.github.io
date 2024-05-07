@@ -18,14 +18,15 @@ Education
 
 Work experience
 ======
-* Current/since 2021: at the [Department for Research on Terrorism and Radicalization](https://www.ispk.uni-kiel.de/en/departments/center-for-research-on-terrorism-and-radicalization) of the [Institute for Security Policy at Kiel University (ISPK)](https://www.ispk.uni-kiel.de/en)
-  * **Data scientist** in **Germany's** [Federal Ministry of Education and Research](https://www.bmbf.de/bmbf/en/home/home_node.html) **(BMBF)** funded projects [ERAME](https://www.ispk.uni-kiel.de/de/abteilungen/abteilung-terrorismus-und-radikalisierungsforschung/publikationen/download/projektumriss_erame.pdf) and [ERAME-Rex](https://www.ispk.uni-kiel.de/de/abteilungen/abteilung-terrorismus-und-radikalisierungsforschung/publikationen/download/projektumriss_erame-rex.pdf) aimed at developing software solutions that use (among other things) **machine learning** and [Natural Language Processing](https://en.wikipedia.org/wiki/Natural_language_processing) **(NLP)** to identify a) **islamic** and b) **extreme-right radicalization** on **YouTube** and **Telegram** 
-* 2020: Non-Resident Fellow of the [Dept. of Maritime Strategy and Security](https://www.ispk.uni-kiel.de/en/departments/center-for-maritime-strategy-and-security) at the [Institute for Security Policy at Kiel University (ISPK)](https://www.ispk.uni-kiel.de/en)
-* 2018-2020 Postdoc/Lecturer at the [sociology](https://www.soziologie.uni-kiel.de/en?set_language=en) and [political science](https://www.politik.uni-kiel.de/en?set_language=en) departments of the [Christian-Albrechts-Universität zu Kiel](https://www.uni-kiel.de/en/)
-* 2012-2018: research associate/lecturer at the [political science department](https://www.politik.uni-kiel.de/en?set_language=en) of the [Christian-Albrechts-Universität zu Kiel](https://www.uni-kiel.de/en/)
-* 2015: Internship at the [Woodrow Wilson International Center](https://www.wilsoncenter.org/) In Washington D.C., USA.
-* 2013: Internship at the Americas Program of the[Center for International Policy](https://internationalpolicy.org/) in Mexico City.
-* 2010: Internship at the [Centre for European Policy Studies](https://www.ceps.eu/) in Brussels, Belgium.
+* **Current**: [Institute for Security Policy at Kiel University (ISPK)](https://www.ispk.uni-kiel.de/en) (Germany).
+  * **2021-to date**: **Data scientist** at the [Department for Research on Terrorism and Radicalization](https://www.ispk.uni-kiel.de/en/departments/center-for-research-on-terrorism-and-radicalization) for the **Germany's** [Federal Ministry of Education and Research](https://www.bmbf.de/bmbf/en/home/home_node.html) **(BMBF)** funded projects [ERAME](https://www.ispk.uni-kiel.de/de/abteilungen/abteilung-terrorismus-und-radikalisierungsforschung/publikationen/download/projektumriss_erame.pdf) and [ERAME-Rex](https://www.ispk.uni-kiel.de/de/abteilungen/abteilung-terrorismus-und-radikalisierungsforschung/publikationen/download/projektumriss_erame-rex.pdf), aimed at developing software solutions that use (among other things) **machine learning** and [Natural Language Processing](https://en.wikipedia.org/wiki/Natural_language_processing) **(NLP)** to identify a) **islamic** and b) **extreme-right radicalization** on **YouTube** and **Telegram**. 
+  * **2020**: Fellow at the [Department of Maritime Strategy and Security](https://www.ispk.uni-kiel.de/en/departments/center-for-maritime-strategy-and-security).
+* **2012-2020**: [Christian-Albrechts-Universität zu Kiel](https://www.uni-kiel.de/en/) (Germany).
+  * 2018-2020: Postdoc/lecturer at the [sociology](https://www.soziologie.uni-kiel.de/en?set_language=en) and [political science](https://www.politik.uni-kiel.de/en?set_language=en) departments. 
+  * 2012-2018: Research associate/lecturer at the [political science department](https://www.politik.uni-kiel.de/en?set_language=en).
+* **2015**: Internship at the [Woodrow Wilson International Center](https://www.wilsoncenter.org/) in Washington D.C., USA.
+* **2013**: Internship at the Americas Program of the [Center for International Policy](https://internationalpolicy.org/) in Mexico City.
+* **2010**: Internship at the [Centre for European Policy Studies](https://www.ceps.eu/) in Brussels, Belgium.
 
 Skills
 ======
