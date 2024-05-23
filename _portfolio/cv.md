@@ -58,6 +58,8 @@ collection: portfolio
 </p>
 * Cruz-Aceves, Victor; Mallinson, Daniel (2019): [Clarifying the Measurement of Relative Ideology in Policy Diffusion Research](https://journals.sagepub.com/doi/10.1177/0160323X20902818). In [*State and Local Government Review*](https://journals.sagepub.com/home/SLG) 51 (3), pp. 179–186. DOI: 10.1177/0160323X20902818
 <p align="middle">
+<a href="../images/2019_article/abstract.png">
+    <img src="../images/2019_article/abstract.png" width="140" /> </a>
 <a href="../images/2019_article/table_1.jpg">
     <img src="../images/2019_article/table_1.jpg" width="240" /> </a>
 </p>
