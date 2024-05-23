@@ -21,9 +21,15 @@ collection: portfolio
 * Cruz-Aceves, Victor; Jost, Jannis (2022): **Automated identification of islamic radicalization in social media**. Presentation at the *Monitoringsystem und Transferplattform Radikalisierung (MOTRA-K)* Conference in Wiesbaden, Germany.
 <p align="middle">
 <a href="../images/erame/erame_english_description.pdf">
-    <img src="../images/erame/thumbnail_erame_english_description.jpg" width="190"/>
-</a> <img src="../images/motra2022/curves.jpg" width="240" /> <img src="../images/motra2022/stm_time_auswahl.png" width="240" /> <img src="../images/motra2022/violins_means.jpg" width="240" />
+    <img src="../images/erame/thumbnail_erame_english_description.jpg" width="180"/> </a>
+<a href="../images/motra2022/curves.jpg">
+    <img src="../images/motra2022/curves.jpg" width="240" /> </a>
+<a href="../images/motra2022/stm_time_auswahl.png">
+    <img src="../images/motra2022/stm_time_auswahl.png" width="240" /> </a>
+<a href="../images/motra2022/violins_means.jpg">
+    <img src="../images/motra2022/violins_means.jpg" width="240" /></a>
 </p>
+
 * **(Book)** Cruz-Aceves, Victor (2021b): [The Diffusion of Morality Policies. State-Level Comparative Analyses in the United States of America](https://www.nomos-shop.de/nomos/titel/the-diffusion-of-morality-policies-id-100739/). Publishedd by [*Nomos Publishing*](https://www.nomos.de/en/).
 <p align="middle">
 <img src="../images/book/26_coefficient_plot.png" width="240" /> <img src="../images/book/27_coefficient_plot.png" width="240" /> <img src="../images/book/8_map.png" width="240" /> <img src="../images/book/table_15.png" width="240" />
