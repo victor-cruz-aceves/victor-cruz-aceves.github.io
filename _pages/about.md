@@ -7,18 +7,16 @@ redirect_from:
   - /about.html
 ---
 <p align="middle">
+<a href="../images/v2_s_MOTRA-K-Poster_geschw%C3%A4rzt.jpg"> 
+    <img src="../images/v2_s_MOTRA-K-Poster_geschw%C3%A4rzt.jpg" width="90" /> </a>
 <a href="../images/motra2022/violins_means.jpg">
-    <img src="../images/motra2022/violins_means.jpg" width="140" /></a>  
+    <img src="../images/motra2022/violins_means.jpg" width="120" /></a>  
 <a href="../images/social_connectedness/f3_binscatter.jpeg">
-    <img src="../images/social_connectedness/f3_binscatter.jpeg" width="80" /> </a>
+    <img src="../images/social_connectedness/f3_binscatter.jpeg" width="100" /> </a>
 <a href="../images/social_connectedness/heinsberg_connectedness.jpeg">
-    <img src="../images/social_connectedness/heinsberg_connectedness.jpeg" width="60" /> </a>
-<a href="../images/dissertation/4.jpg">
-    <img src="../images/dissertation/4.jpg" width="80" /> </a>
+    <img src="../images/social_connectedness/heinsberg_connectedness.jpeg" width="110" /> </a>
 <a href="../images/motra2022/stm_time_auswahl.png">
-    <img src="../images/motra2022/stm_time_auswahl.png" width="60" /> </a>  
-<a href="../images/dissertation/5.jpg">
-    <img src="../images/dissertation/5.jpg" width="80" /></a>    
+    <img src="../images/motra2022/stm_time_auswahl.png" width="110" /> </a>  
 </p>
 
 Hi, I'm Victor, research associate at the [Department for Research on Terrorism and Radicalization](https://www.ispk.uni-kiel.de/en/departments/center-for-research-on-terrorism-and-radicalization) at the [Think tank](https://en.wikipedia.org/wiki/Think_tank) called [Institute for Security Policy at Kiel University (ISPK)](https://www.ispk.uni-kiel.de/en). I am currently working as **data scientist** for the projects [ERAME](/images/erame/erame_english_description.pdf) and [ERAME-Rex](/images/rex/english_description_rex.pdf), which are **funded by Germany's** [Federal Ministry of Education and Research](https://www.bmbf.de/bmbf/en/home/home_node.html) **(BMBF)** to develop software solutions that use **machine learning** and [Natural Language Processing](https://en.wikipedia.org/wiki/Natural_language_processing) **(NLP)** to identify a) **islamic** and b) **extreme-right radicalization** on **social media**.
