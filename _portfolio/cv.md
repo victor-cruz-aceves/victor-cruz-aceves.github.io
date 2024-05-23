@@ -32,7 +32,14 @@ collection: portfolio
 
 * **(Book)** Cruz-Aceves, Victor (2021b): [The Diffusion of Morality Policies. State-Level Comparative Analyses in the United States of America](https://www.nomos-shop.de/nomos/titel/the-diffusion-of-morality-policies-id-100739/). Publishedd by [*Nomos Publishing*](https://www.nomos.de/en/).
 <p align="middle">
-<img src="../images/book/26_coefficient_plot.png" width="240" /> <img src="../images/book/27_coefficient_plot.png" width="240" /> <img src="../images/book/8_map.png" width="240" /> <img src="../images/book/table_15.png" width="240" />
+<a href="../images/book/26_coefficient_plot.png"> 
+    <img src="../images/book/26_coefficient_plot.png" width="240" /> </a> 
+<a href="../images/book/27_coefficient_plot.png">
+    <img src="../images/book/27_coefficient_plot.png" width="240" /></a>
+<a href="../images/book/8_map.png"> 
+    <img src="../images/book/8_map.png" width="240" /> </a>
+<a href="../images/book/table_15.png">
+    <img src="../images/book/table_15.png" width="240" /></a>
 </p>
 * Cruz-Aceves, Victor (2021a): [Social-Network (Facebook) Connectedness and COVID-19 Outbreak in German Municipalities.](https://www.researchgate.net/publication/348265859_Social-Network_Facebook_Connectedness_and_COVID-19_Outbreak_in_German_Municipalities) (Working paper).
 <p align="middle">
