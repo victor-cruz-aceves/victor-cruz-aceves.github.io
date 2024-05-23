@@ -64,5 +64,12 @@ collection: portfolio
 </p>
 * Cruz-Aceves, Victor (2018): **The Diffusion of Morality Policies**. PhD/Doctoral dissertation. *Christian-Albrechts-Universität zu Kiel* (Germany). Note: [Magna Cum Laude](https://en.wikipedia.org/wiki/Latin_honors#Germany)/[1,1](https://en.wikipedia.org/wiki/Academic_grading_in_Germany#Tertiary_education) (equivalent to [~ 4 GPA in the US](https://en.wikipedia.org/wiki/Academic_grading_in_Germany#Overview))
 <p align="middle">
-<img src="../images/dissertation/2.jpg" width="240" /> <img src="../images/dissertation/3.jpg" width="240" /> <img src="../images/dissertation/4.jpg" width="240" /> <img src="../images/dissertation/5.jpg" width="240" />
+<a href="../images/dissertation/2.jpg">
+    <img src="../images/dissertation/2.jpg" width="240" /> </a>
+<a href="../images/dissertation/3.jpg">
+    <img src="../images/dissertation/3.jpg" width="240" /> </a>
+<a href="../images/dissertation/4.jpg">
+    <img src="../images/dissertation/4.jpg" width="240" /> </a>
+<a href="../images/dissertation/5.jpg">
+    <img src="../images/dissertation/5.jpg" width="240" /></a>
 </p>
