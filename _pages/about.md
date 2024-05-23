@@ -6,10 +6,34 @@ redirect_from:
   - /about/
   - /about.html
 ---
-
 Hi, I'm Victor, research associate at the [Department for Research on Terrorism and Radicalization](https://www.ispk.uni-kiel.de/en/departments/center-for-research-on-terrorism-and-radicalization) at the [Think tank](https://en.wikipedia.org/wiki/Think_tank) called [Institute for Security Policy at Kiel University (ISPK)](https://www.ispk.uni-kiel.de/en). I am currently working as **data scientist** for the projects [ERAME](/images/erame/erame_english_description.pdf) and [ERAME-Rex](/images/rex/english_description_rex.pdf), which are **funded by Germany's** [Federal Ministry of Education and Research](https://www.bmbf.de/bmbf/en/home/home_node.html) **(BMBF)** to develop software solutions that use **machine learning** and [Natural Language Processing](https://en.wikipedia.org/wiki/Natural_language_processing) **(NLP)** to identify a) **islamic** and b) **extreme-right radicalization** on **social media**.
+<p align="middle">
+<a href="../images/erame/erame_english_description.pdf">
+    <img src="../images/erame/thumbnail_erame_english_description.jpg" width="80"/> </a>
+<a href="../images/rex/english_description_rex.pdf">
+    <img src="../images/rex/english_description_rex.jpg" width="80"/> </a>
+<a href="../images/v2_s_MOTRA-K-Poster_geschw%C3%A4rzt.jpg"> 
+    <img src="../images/v2_s_MOTRA-K-Poster_geschw%C3%A4rzt.jpg" width="80" /> </a> 
+<a href="../images/motra2022/curves.jpg">
+    <img src="../images/motra2022/curves.jpg" width="120" /> </a>
+<a href="../images/motra2022/violins_means.jpg">
+    <img src="../images/motra2022/violins_means.jpg" width="160" /></a>  
+<a href="../images/motra2022/stm_time_auswahl.png">
+    <img src="../images/motra2022/stm_time_auswahl.png" width="80" /> </a>  
+</p>
 
 **Previously**, I worked as **research associate** (and taught courses **in both German and English**) at both the political science and the sociology departments at the [Christian-Albrechts-Universität zu Kiel](https://www.uni-kiel.de/en/) in **Germany** (from where I obtained my **PhD in 2018**) and at some of the **largest** [Think tanks](https://en.wikipedia.org/wiki/Think_tank) in the **US and Europe** ([Wilson Center](https://www.wilsoncenter.org/), [Center for International Policy](https://internationalpolicy.org/) & [Centre for European Policy Studies](https://www.ceps.eu/)).
+
+<p align="middle">
+<a href="../images/social_connectedness/covid_germany.jpeg">
+    <img src="../images/social_connectedness/covid_germany.jpeg" width="100" />  </a>
+<a href="../images/social_connectedness/kiel_freiburg_europe.jpeg">
+    <img src="../images/social_connectedness/kiel_freiburg_europe.jpeg" width="80" /> </a>
+<a href="../images/dissertation/4.jpg">
+    <img src="../images/dissertation/4.jpg" width="100" /> </a>
+<a href="../images/dissertation/5.jpg">
+    <img src="../images/dissertation/5.jpg" width="100" /></a>
+</p>
 
 I have both **substantial and methodological** peer-reviewed publications in [*State Politics & Policy Quarterly*](https://www.cambridge.org/core/journals/state-politics-and-policy-quarterly), [*State and Local Government Review*](https://journals.sagepub.com/home/SLG) and [*Nomos Publishing*](https://www.nomos.de/en/) (see section [publications](https://victor-cruz-aceves.github.io//portfolio/) or my profile on [ResearchGate](https://www.researchgate.net/profile/Victor-Cruz-Aceves-2/research)).
 
