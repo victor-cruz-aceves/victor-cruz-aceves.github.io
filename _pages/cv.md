@@ -24,13 +24,16 @@ Work experience
 * **2012-2020**: [Christian-Albrechts-Universität zu Kiel](https://www.uni-kiel.de/en/) (Germany).
   * 2018-2020: Postdoc/lecturer at the [sociology](https://www.soziologie.uni-kiel.de/en?set_language=en) and [political science](https://www.politik.uni-kiel.de/en?set_language=en) departments. 
   * 2012-2018: Research associate/lecturer at the [political science department](https://www.politik.uni-kiel.de/en?set_language=en).
-* **2015**: Internship at the [Woodrow Wilson International Center](https://www.wilsoncenter.org/) ([Think tank](https://en.wikipedia.org/wiki/Think_tank)) in Washington D.C., USA.
+* **2015**: Internship at the [Woodrow Wilson International Center](https://www.wilsoncenter.org/) ([Think tank](https://en.wikipedia.org/wiki/Think_tank)) in Washington D.C., USA, specifically for the projects:
+  *  *The impact of crime and violence on economic sector diversity* ([publication URL](https://tasdeeq.org/wp-content/uploads/2019/09/6.pdf))
+  * *Territory and Ideology in Latin America: Policy Conflicts between National and
+Subnational Governments* ([publication URL](https://academic.oup.com/book/26788))
 * **2013**: Internship at the Americas Program of the [Center for International Policy](https://internationalpolicy.org/) ([Think tank](https://en.wikipedia.org/wiki/Think_tank)) in Mexico City.
 * **2010**: Internship at the [Centre for European Policy Studies](https://www.ceps.eu/) ([Think tank](https://en.wikipedia.org/wiki/Think_tank)) in Brussels, Belgium.
 
 Skills
 ======
-* **Methods/Analytics**: advanced statistics/Econometrics, Machine learning, Natural Language Processing (NLP) and text-as-data analytics.
+* **Methods/Analytics**: advanced statistics/Econometrics, Machine learning, [Natural Language Processing](https://en.wikipedia.org/wiki/Natural_language_processing) (NLP) and [text-as-data analytics](https://en.wikipedia.org/wiki/Text_mining).
 * **Programming**: Python, R, Ruby, Mata (Stata) and git.
 * **Languages**: English, German, Spanish and French.
 
