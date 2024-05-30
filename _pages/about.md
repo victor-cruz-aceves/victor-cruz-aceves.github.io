@@ -31,4 +31,4 @@ Contact
 ======
 If you want to contact me, please use any of the options listed [here](https://www.ispk.uni-kiel.de/en/staff/staff/dr-victor-cruz-aceves).
 
-<iframe src="../images/erame/lda-mallet-10.html" height="1300" width="700" name = "iframe_a" title="Iframe Example"></iframe>
+<iframe src="../images/erame/lda-mallet-10.html" height="1000" width="600" name = "iframe_a" title="Iframe Example"></iframe>
