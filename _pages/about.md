@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 <p align="middle">
-<iframe src="../images/erame/lda-mallet-10.html" height="60" width="90" title="Iframe Example"></iframe>
+<iframe src="../images/erame/lda-mallet-10.html" height="90" width="150" title="Iframe Example"></iframe>
 <a href="../images/v2_s_MOTRA-K-Poster_geschw%C3%A4rzt.jpg"> 
     <img src="../images/v2_s_MOTRA-K-Poster_geschw%C3%A4rzt.jpg" width="90" /> </a>
 <a href="../images/motra2022/violins_means.jpg">
