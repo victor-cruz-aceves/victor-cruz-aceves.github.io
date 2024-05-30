@@ -7,8 +7,6 @@ redirect_from:
   - /about.html
 ---
 <p align="middle">
-<iframe src="../images/erame/lda-mallet-10.html" height="90" width="150" name = "iframe_a" title="Iframe Example"></iframe>
-<p><a href="../images/erame/old_topic_model.jpg" target="iframe_a"></a></p>
 <a href="../images/v2_s_MOTRA-K-Poster_geschw%C3%A4rzt.jpg"> 
     <img src="../images/v2_s_MOTRA-K-Poster_geschw%C3%A4rzt.jpg" width="90" /> </a>
 <a href="../images/motra2022/violins_means.jpg">
@@ -33,3 +31,4 @@ Contact
 ======
 If you want to contact me, please use any of the options listed [here](https://www.ispk.uni-kiel.de/en/staff/staff/dr-victor-cruz-aceves).
 
+<iframe src="../images/erame/lda-mallet-10.html" height="1300" width="700" name = "iframe_a" title="Iframe Example"></iframe>
