@@ -33,7 +33,7 @@ collection: portfolio
 <a href="../images/motra2022/violins_means.jpg">
     <img src="../images/motra2022/violins_means.jpg" width="240" /></a>
 </p>
-
+<iframe src="../images/erame/lda-mallet-10.html" height="210" width="730" name = "iframe_a" title="Iframe Example"></iframe>
 * **(Book)** Cruz-Aceves, Victor (2021b): [The Diffusion of Morality Policies. State-Level Comparative Analyses in the United States of America](https://www.nomos-shop.de/nomos/titel/the-diffusion-of-morality-policies-id-100739/). Publishedd by [*Nomos Publishing*](https://www.nomos.de/en/).
 <p align="middle">
 <a href="../images/book/26_coefficient_plot.png"> 
