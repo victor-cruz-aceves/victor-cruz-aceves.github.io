@@ -28,8 +28,6 @@ collection: portfolio
     <img src="../images/erame/thumbnail_erame_english_description.jpg" width="140"/> </a>
 <a href="../images/motra2022/curves.jpg">
     <img src="../images/motra2022/curves.jpg" width="240" /> </a>
-<a href="../images/motra2022/stm_time_auswahl.png">
-    <img src="../images/motra2022/stm_time_auswahl.png" width="160" /> </a>
 <a href="../images/motra2022/violins_means.jpg">
     <img src="../images/motra2022/violins_means.jpg" width="240" /></a>
 </p>
