@@ -24,7 +24,7 @@ collection: portfolio
 <iframe src="../images/erame/lda-mallet-10.html" height="290" width="750" name = "iframe_a" title="Iframe Example"></iframe>
 <p align="middle">
 <a href="../images/erame/erame_english_description.pdf">
-    <img src="../images/erame/thumbnail_erame_english_description.jpg" width="140"/> </a>
+    <img src="../images/erame/thumbnail_erame_english_description.jpg" width="90"/> </a>
 <a href="../images/motra2022/curves.jpg">
     <img src="../images/motra2022/curves.jpg" width="240" /> </a>
 <a href="../images/motra2022/violins_means.jpg">
