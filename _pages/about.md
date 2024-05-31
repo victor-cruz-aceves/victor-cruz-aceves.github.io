@@ -17,7 +17,9 @@ redirect_from:
 <a href="../images/social_connectedness/heinsberg_connectedness.jpeg">
     <img src="../images/social_connectedness/heinsberg_connectedness.jpeg" width="80" /> </a>
 <a href="../images/motra2022/stm_time_auswahl.png">
-    <img src="../images/motra2022/stm_time_auswahl.png" width="80" /> </a>  
+    <img src="../images/motra2022/stm_time_auswahl.png" width="80" /> </a>
+<a href="../images/dissertation/5.jpg">
+    <img src="../images/dissertation/5.jpg" width="90" /></a>  
 </p>
 
 Hi, I'm Victor, **data scientist** at the **Think tank** [Institute for Security Policy at Kiel University](https://www.ispk.uni-kiel.de/en) (ISPK) for the projects [ERAME](/images/erame/erame_english_description.pdf) & [ERAME-Rex](/images/rex/english_description_rex.pdf), which are **funded by Germany's** [Federal Ministry of Education and Research](https://www.bmbf.de/bmbf/en/home/home_node.html) **(BMBF)** to develop software solutions that use **machine learning**, [text-as-data](https://en.wikipedia.org/wiki/Text_mining) and [Natural Language Processing](https://en.wikipedia.org/wiki/Natural_language_processing) **(NLP)** to identify a) **islamic** and b) **extreme-right radicalization** on **social media**.
