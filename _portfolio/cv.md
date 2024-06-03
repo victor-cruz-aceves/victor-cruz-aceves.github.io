@@ -21,7 +21,7 @@ collection: portfolio
 </p>
 
 * Cruz-Aceves, Victor; Jost, Jannis (2022): **Automated identification of islamic radicalization in social media**. Presentation at the *Monitoringsystem und Transferplattform Radikalisierung (MOTRA-K)* Conference in Wiesbaden, Germany.
-<iframe src="../images/erame/lda-mallet-10.html" height="290" width="750" name = "iframe_a" title="Iframe Example"></iframe>
+<iframe src="../images/erame/lda-mallet-10.html" height="290" width="950" name = "iframe_a" title="Iframe Example"></iframe>
 <p align="middle">
 <a href="../images/erame/erame_english_description.pdf">
     <img src="../images/erame/thumbnail_erame_english_description.jpg" width="90"/> </a>
