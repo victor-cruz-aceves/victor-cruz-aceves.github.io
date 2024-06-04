@@ -20,6 +20,8 @@ redirect_from:
     <img src="../images/motra2022/stm_time_auswahl.png" width="80" /> </a>
 <a href="../images/dissertation/5.jpg">
     <img src="../images/dissertation/5.jpg" width="90" /></a> 
+<a href="../images/miscellaneous/emoji_about-ISIS-v-non.html">
+    <img src="../images/miscellaneous/emoji_about-ISIS-v-non.jpg" width="90" /></a>
 <a href="../images/erame/lda-mallet-10.html">
     <img src="../images/erame/old_topic_model.jpg" width="90" /></a>
 </p>
