@@ -29,9 +29,9 @@ collection: portfolio
 <a href="../images/erame/erame_english_description.pdf">
     <img src="../images/erame/thumbnail_erame_english_description.jpg" width="90"/> </a>
 <a href="../images/motra2022/curves.jpg">
-    <img src="../images/motra2022/curves.jpg" width="240" /> </a>
+    <img src="../images/motra2022/curves.jpg" width="150" /> </a>
 <a href="../images/motra2022/violins_means.jpg">
-    <img src="../images/motra2022/violins_means.jpg" width="240" /></a>
+    <img src="../images/motra2022/violins_means.jpg" width="200" /></a>
 </p>
 * **(Book)** Cruz-Aceves, Victor (2021b): [The Diffusion of Morality Policies. State-Level Comparative Analyses in the United States of America](https://www.nomos-shop.de/nomos/titel/the-diffusion-of-morality-policies-id-100739/). Publishedd by [*Nomos Publishing*](https://www.nomos.de/en/).
 <p align="middle">
