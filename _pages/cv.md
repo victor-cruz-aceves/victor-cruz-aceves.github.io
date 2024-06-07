@@ -18,18 +18,18 @@ Education
 
 Work experience
 ======
-* **Current**: [Institute for Security Policy at Kiel University](https://www.ispk.uni-kiel.de/en) ([Think tank](https://en.wikipedia.org/wiki/Think_tank)) in Germany.
+* **Current**: [Institute for Security Policy at Kiel University](https://www.ispk.uni-kiel.de/en) (Think tank), Germany.
   * **2021-to date**: **Data scientist** at the [Department for Research on Terrorism and Radicalization](https://www.ispk.uni-kiel.de/en/departments/center-for-research-on-terrorism-and-radicalization) for the **Germany's** [Federal Ministry of Education and Research](https://www.bmbf.de/bmbf/en/home/home_node.html) **(BMBF)** funded projects [ERAME](/images/erame/erame_english_description.pdf) and [ERAME-Rex](/images/rex/english_description_rex.pdf), aimed at developing software solutions that use **machine learning** and [Natural Language Processing](https://en.wikipedia.org/wiki/Natural_language_processing) **(NLP)** to identify a) **islamic** and b) **extreme-right radicalization** on **YouTube** and **Telegram**. 
   * **2020**: Fellow at the [Department of Maritime Strategy and Security](https://www.ispk.uni-kiel.de/en/departments/center-for-maritime-strategy-and-security).
-* **2012-2020**: [Christian-Albrechts-Universität zu Kiel](https://www.uni-kiel.de/en/) (Germany).
+* **2012-2020**: [Christian-Albrechts-Universität zu Kiel](https://www.uni-kiel.de/en/), Germany.
   * 2018-2020: Postdoc/lecturer at the [sociology](https://www.soziologie.uni-kiel.de/en?set_language=en) and [political science](https://www.politik.uni-kiel.de/en?set_language=en) departments. 
   * 2012-2018: Research associate/lecturer at the [political science department](https://www.politik.uni-kiel.de/en?set_language=en).
-* **2015**: Internship at the [Woodrow Wilson International Center](https://www.wilsoncenter.org/) ([Think tank](https://en.wikipedia.org/wiki/Think_tank)) in Washington D.C., USA, specifically for the projects:
-  *  *The impact of crime and violence on economic sector diversity* ([publication URL](https://tasdeeq.org/wp-content/uploads/2019/09/6.pdf))
-  * *Territory and Ideology in Latin America: Policy Conflicts between National and
-Subnational Governments* ([publication URL](https://academic.oup.com/book/26788))
-* **2013**: Internship at the Americas Program of the [Center for International Policy](https://internationalpolicy.org/) ([Think tank](https://en.wikipedia.org/wiki/Think_tank)) in Mexico City.
-* **2010**: Internship at the [Centre for European Policy Studies](https://www.ceps.eu/) ([Think tank](https://en.wikipedia.org/wiki/Think_tank)) in Brussels, Belgium.
+* **2015**: Internship at the [Woodrow Wilson International Center](https://www.wilsoncenter.org/) (Think tank), Washington D.C., USA, specifically for the projects:
+  *  [*The impact of crime and violence on economic sector diversity*](https://tasdeeq.org/wp-content/uploads/2019/09/6.pdf)
+  * [*Territory and Ideology in Latin America: Policy Conflicts between National and
+Subnational Governments*](https://academic.oup.com/book/26788)
+* **2013**: Internship at the Americas Program of the [Center for International Policy](https://internationalpolicy.org/) (Think tank), Mexico City.
+* **2010**: Internship at the [Centre for European Policy Studies](https://www.ceps.eu/) (Think tank), Brussels, Belgium.
 
 Skills
 ======
