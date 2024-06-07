@@ -76,21 +76,21 @@ Data Visualization
 <a href="../images/miscellaneous/emoji_about-ISIS-v-non.html">
     <img src="../images/miscellaneous/emoji_about-ISIS-v-non.jpg" width="90" /></a>
 <a href="../images/book/26_coefficient_plot.png"> 
-    <img src="../images/book/26_coefficient_plot.png" width="240" /> </a> 
+    <img src="../images/book/26_coefficient_plot.png" width="80" /> </a> 
 <a href="../images/book/27_coefficient_plot.png">
-    <img src="../images/book/27_coefficient_plot.png" width="240" /></a>
+    <img src="../images/book/27_coefficient_plot.png" width="80" /></a>
 <a href="../images/book/8_map.png"> 
-    <img src="../images/book/8_map.png" width="240" /> </a>
+    <img src="../images/book/8_map.png" width="80" /> </a>
 <a href="../images/social_connectedness/covid_germany.jpeg">
-    <img src="../images/social_connectedness/covid_germany.jpeg" width="240" />  </a>
+    <img src="../images/social_connectedness/covid_germany.jpeg" width="80" />  </a>
 <a href="../images/social_connectedness/kiel_freiburg_europe.jpeg">
-    <img src="../images/social_connectedness/kiel_freiburg_europe.jpeg" width="160" /> </a>
+    <img src="../images/social_connectedness/kiel_freiburg_europe.jpeg" width="80" /> </a>
   <a href="../images/dissertation/2.jpg">
-    <img src="../images/dissertation/2.jpg" width="240" /> </a>
+    <img src="../images/dissertation/2.jpg" width="80" /> </a>
 <a href="../images/dissertation/3.jpg">
-    <img src="../images/dissertation/3.jpg" width="240" /> </a>
+    <img src="../images/dissertation/3.jpg" width="80" /> </a>
 <a href="../images/dissertation/4.jpg">
-    <img src="../images/dissertation/4.jpg" width="240" /> </a>
+    <img src="../images/dissertation/4.jpg" width="80" /> </a>
 <a href="../images/dissertation/5.jpg">
-    <img src="../images/dissertation/5.jpg" width="240" /></a>
+    <img src="../images/dissertation/5.jpg" width="80" /></a>
 </p>
