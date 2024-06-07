@@ -33,8 +33,9 @@ Subnational Governments*](https://academic.oup.com/book/26788)
 
 Skills
 ======
-* **Methods/Analytics**: advanced statistics/Econometrics, Machine learning, [Natural Language Processing](https://en.wikipedia.org/wiki/Natural_language_processing) (NLP) and [text-as-data analytics](https://en.wikipedia.org/wiki/Text_mining).
-* **Programming**: Python, R, Ruby, Mata (Stata) and git.
+* **Methods/Analytics**: advanced statistics/Econometrics, Machine learning, [Natural Language Processing](https://en.wikipedia.org/wiki/Natural_language_processing) (NLP) , [social media analytics](https://www.ibm.com/topics/social-media-analytics) and [text-as-data analytics](https://en.wikipedia.org/wiki/Text_mining).
+* **Programming**: Python, R, Mata (Stata) and git.
+* **Web design**: Ruby & HTML
 * **Languages**: English, German, Spanish and French.
 
 Publications
