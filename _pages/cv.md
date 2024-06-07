@@ -25,7 +25,7 @@ Work experience
   * 2018-2020: Postdoc/lecturer at the [sociology](https://www.soziologie.uni-kiel.de/en?set_language=en) and [political science](https://www.politik.uni-kiel.de/en?set_language=en) departments. 
   * 2012-2018: Research associate/lecturer at the [political science department](https://www.politik.uni-kiel.de/en?set_language=en).
 * **2015**: Internship at the [Woodrow Wilson International Center](https://www.wilsoncenter.org/) (Think tank), Washington D.C., USA, specifically for the projects:
-  *  [*The impact of crime and violence on economic sector diversity*](https://tasdeeq.org/wp-content/uploads/2019/09/6.pdf)
+  *  [*The impact of crime and violence on economic sector diversity*](../files/crime_violence_economic_sector.pdf)
   * [*Territory and Ideology in Latin America: Policy Conflicts between National and
 Subnational Governments*](https://academic.oup.com/book/26788)
 * **2013**: Internship at the Americas Program of the [Center for International Policy](https://internationalpolicy.org/) (Think tank), Mexico City.
