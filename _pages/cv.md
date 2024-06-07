@@ -62,19 +62,19 @@ Data Visualization
 ======
 <p align="middle">
 <a href="../images/motra2022/curves.jpg">
-    <img src="../images/motra2022/curves.jpg" width="240" /> </a>
+    <img src="../images/motra2022/curves.jpg" width="150" /> </a>
 <a href="../images/erame/lda-mallet-10.html">
-    <img src="../images/erame/old_topic_model.jpg" width="240" /></a>
+    <img src="../images/erame/old_topic_model.jpg" width="90" /></a>
 <a href="../images/motra2022/violins_means.jpg">
-    <img src="../images/motra2022/violins_means.jpg" width="240" /></a>  
+    <img src="../images/motra2022/violins_means.jpg" width="120" /></a>  
 <a href="../images/social_connectedness/f3_binscatter.jpeg">
-    <img src="../images/social_connectedness/f3_binscatter.jpeg" width="240" /> </a>
+    <img src="../images/social_connectedness/f3_binscatter.jpeg" width="100" /> </a>
 <a href="../images/social_connectedness/heinsberg_connectedness.jpeg">
-    <img src="../images/social_connectedness/heinsberg_connectedness.jpeg" width="240" /> </a>
+    <img src="../images/social_connectedness/heinsberg_connectedness.jpeg" width="80" /> </a>
 <a href="../images/dissertation/5.jpg">
-    <img src="../images/dissertation/5.jpg" width="240" /></a> 
+    <img src="../images/dissertation/5.jpg" width="90" /></a> 
 <a href="../images/miscellaneous/emoji_about-ISIS-v-non.html">
-    <img src="../images/miscellaneous/emoji_about-ISIS-v-non.jpg" width="240" /></a>
+    <img src="../images/miscellaneous/emoji_about-ISIS-v-non.jpg" width="90" /></a>
 <a href="../images/book/26_coefficient_plot.png"> 
     <img src="../images/book/26_coefficient_plot.png" width="240" /> </a> 
 <a href="../images/book/27_coefficient_plot.png">
