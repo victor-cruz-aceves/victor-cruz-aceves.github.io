@@ -3,8 +3,8 @@ permalink: /graphs/
 title: "Graphs"
 ---
 
-{% for image in site.static_files %}
-    {% if image.path contains 'images/slider' %}
+{% for image in site.images %}
+    {% if image.path contains 'old_twitter' %}
         <img src="{{ site.baseurl }}{{ image.path }}" alt="image" />
     {% endif %}
 {% endfor %}
