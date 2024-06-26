@@ -12,6 +12,9 @@ main:
   - title: "Publications"
     url: /portfolio/
 
+  - title: "Graphs"
+    url: /graphs/
+
   - title: "CV"
     url: /cv/
 
