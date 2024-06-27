@@ -3,6 +3,7 @@ layout: archive
 permalink: /graphs/
 title: "Graphs"
 ---
+{% include base_path %}
 
 {% for image in site.static_files %}
     {% if image.path contains 'images/old_twitter' %}
