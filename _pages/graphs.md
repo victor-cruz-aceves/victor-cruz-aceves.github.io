@@ -1,5 +1,4 @@
 ---
-layout: archive
 permalink: /graphs/
 title: "Graphs"
 ---
