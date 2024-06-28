@@ -15,7 +15,7 @@ title: "Graphs"
 {% for image in site.static_files %}
     {% if image.path contains 'images/miscellaneous/twitter_xl' %}
 <a href="{{ site.baseurl }}{{ image.path }}">
-<img src="{{ site.baseurl }}{{ image.path }}" alt="image" width="90" /></a>
+<img src="{{ site.baseurl }}{{ image.path }}" alt="image" width="50" /></a>
     {% endif %}
 {% endfor %}
 
