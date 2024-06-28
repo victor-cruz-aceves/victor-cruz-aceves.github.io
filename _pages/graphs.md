@@ -12,6 +12,13 @@ title: "Graphs"
     {% endif %}
 {% endfor %}
 
+{% for image in site.static_files %}
+    {% if image.path contains 'images/old_twitter' %}
+<a href="{{ site.baseurl }}{{ image.path }}">
+<img src="{{ site.baseurl }}{{ image.path }}" alt="image" width="90" /></a>
+    {% endif %}
+{% endfor %}
+
 <a href="../images/erame/lda-mallet-10.html">
     <img src="../images/erame/old_topic_model.jpg" width="90" /></a>
 <a href="../images/miscellaneous/emoji_about-ISIS-v-non.html">
