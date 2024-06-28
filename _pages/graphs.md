@@ -11,9 +11,7 @@ title: "Graphs"
 <img src="{{ site.baseurl }}{{ image.path }}" alt="image" width="90" /></a>
     {% endif %}
 {% endfor %}
-</p>
 
-<p align="middle">
 <a href="../images/erame/lda-mallet-10.html">
     <img src="../images/erame/old_topic_model.jpg" width="90" /></a>
 <a href="../images/miscellaneous/emoji_about-ISIS-v-non.html">
