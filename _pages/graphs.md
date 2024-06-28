@@ -5,20 +5,6 @@ title: "Graphs"
 ---
 
 <p align="middle">
-{% for image in site.static_files %}
-    {% if image.path contains 'images/old_twitter' %}
-<a href="{{ site.baseurl }}{{ image.path }}">
-<img src="{{ site.baseurl }}{{ image.path }}" alt="image" width="90" /></a>
-    {% endif %}
-{% endfor %}
-
-{% for image in site.static_files %}
-    {% if image.path contains 'images/miscellaneous/twitter_xl' %}
-<a href="{{ site.baseurl }}{{ image.path }}">
-<img src="{{ site.baseurl }}{{ image.path }}" alt="image" width="50" /></a>
-    {% endif %}
-{% endfor %}
-
 <a href="../images/erame/lda-mallet-10.html">
     <img src="../images/erame/old_topic_model.jpg" width="90" /></a>
 <a href="../images/miscellaneous/emoji_about-ISIS-v-non.html">
@@ -51,4 +37,18 @@ title: "Graphs"
     <img src="../images/dissertation/4.jpg" width="80" /> </a>
 <a href="../images/dissertation/5.jpg">
     <img src="../images/dissertation/5.jpg" width="80" /></a>
+
+{% for image in site.static_files %}
+    {% if image.path contains 'images/old_twitter' %}
+<a href="{{ site.baseurl }}{{ image.path }}">
+<img src="{{ site.baseurl }}{{ image.path }}" alt="image" width="90" /></a>
+    {% endif %}
+{% endfor %}
+
+{% for image in site.static_files %}
+    {% if image.path contains 'images/miscellaneous/twitter_xl' %}
+<a href="{{ site.baseurl }}{{ image.path }}">
+<img src="{{ site.baseurl }}{{ image.path }}" alt="image" width="50" /></a>
+    {% endif %}
+{% endfor %}
 </p>
