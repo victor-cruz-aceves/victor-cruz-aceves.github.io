@@ -14,8 +14,8 @@ redirect_from:
     <img src="../images/erame/old_topic_model.jpg" width="90" /></a>
 <a href="../images/motra2022/violins_means.jpg">
     <img src="../images/motra2022/violins_means.jpg" width="120" /></a>  
-<a href="../images/social_connectedness/f3_binscatter.jpeg">
-    <img src="../images/social_connectedness/f3_binscatter.jpeg" width="100" /> </a>
+<a href="../images/rex/cosine_similarity_reich_far_right.png">
+    <img src="../images/rex/cosine_similarity_reich_far_right.png" width="90"/> </a>
 <a href="../images/social_connectedness/heinsberg_connectedness.jpeg">
     <img src="../images/social_connectedness/heinsberg_connectedness.jpeg" width="80" /> </a>
 <a href="../images/dissertation/5.jpg">
