@@ -5,6 +5,8 @@ title: "Graphs"
 ---
 
 <p align="middle">
+<a href="../images/rex/cosine_similarity_reich_far_right.png">
+    <img src="../images/rex/cosine_similarity_reich_far_right.png" width="170"/> </a>
 <a href="../images/erame/lda-mallet-10.html">
     <img src="../images/erame/old_topic_model.jpg" width="180" /></a>
 <a href="../images/miscellaneous/emoji_about-ISIS-v-non.html">
