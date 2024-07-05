@@ -61,6 +61,8 @@ TV Appearances
 Data Visualization
 ======
 <p align="middle">
+<a href="../images/rex/stm-visualization/index.html">
+    <img src="../images/rex/far_right_viz_lemmatta.png" width="110" /></a>
 <a href="../images/rex/cosine_similarity_reich_far_right.png">
     <img src="../images/rex/cosine_similarity_reich_far_right.png" width="80"/> </a>
 <a href="../images/erame/lda-mallet-10.html">
