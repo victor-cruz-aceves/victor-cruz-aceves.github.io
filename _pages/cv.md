@@ -111,4 +111,7 @@ Data Visualization
 <img src="{{ site.baseurl }}{{ image.path }}" alt="image" width="50" /></a>
     {% endif %}
 {% endfor %}  
+
+<a href="../images/erame/projektumriss_erame.pdf">
+    <img src="../images/erame/projektumriss_erame.jpg" width="90"/> </a>
 </p>
