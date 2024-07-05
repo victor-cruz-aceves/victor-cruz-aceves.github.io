@@ -10,6 +10,8 @@ collection: portfolio
 
 * Cruz-Aceves, Victor et. al. (2024): **ERAME & ERAME-REX – Monitoring and Machine learning-based evaluation of islamic and right-wing radicalization on social media**. Poster/software-demo at the *Monitoringsystem und Transferplattform Radikalisierung* [*(MOTRA-K) Conference*](https://www.motra.info/motra-k-2024/) in Wiesbaden, Germany
 <p align="middle">
+<a href="../images/rex/stm-visualization/index.html">
+    <img src="../images/rex/far_right_viz_lemmatta.png" width="130" /></a>
 <a href="../images/rex/cosine_similarity_reich_far_right.png">
     <img src="../images/rex/cosine_similarity_reich_far_right.png" width="120"/> </a>
 <a href="../images/rex/projektumriss_erame-rex.pdf">
