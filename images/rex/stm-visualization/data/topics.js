@@ -1,0 +1,1 @@
+var topics = [{"name":"Topic 1","list":"heute, spaziergang, demo"},{"name":"Topic 2","list":"deutsch, jahr, deutschland"},{"name":"Topic 3","list":"gut, schon, m\u00fcssen"},{"name":"Topic 4","list":"corona, impfung, covid"},{"name":"Topic 5","list":"kanal, deutsch, folgen"},{"name":"Topic 6","list":"leben, gott, volk"},{"name":"Topic 7","list":"ukraine, russland, russisch"}]
