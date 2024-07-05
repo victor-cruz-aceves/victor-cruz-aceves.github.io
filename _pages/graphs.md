@@ -5,6 +5,8 @@ title: "Graphs"
 ---
 
 <p align="middle">
+<a href="../images/rex/stm-visualization/index.html">
+    <img src="../images/rex/far_right_viz_lemmatta.png" width="200" /></a>
 <a href="../images/rex/cosine_similarity_reich_far_right.png">
     <img src="../images/rex/cosine_similarity_reich_far_right.png" width="170"/> </a>
 <a href="../images/erame/lda-mallet-10.html">
