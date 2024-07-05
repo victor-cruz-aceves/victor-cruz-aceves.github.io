@@ -19,9 +19,7 @@ redirect_from:
 <a href="../images/rex/cosine_similarity_reich_far_right.png">
     <img src="../images/rex/cosine_similarity_reich_far_right.png" width="90"/> </a>
 <a href="../images/social_connectedness/heinsberg_connectedness.jpeg">
-    <img src="../images/social_connectedness/heinsberg_connectedness.jpeg" width="80" /> </a>
-<a href="../images/dissertation/5.jpg">
-    <img src="../images/dissertation/5.jpg" width="90" /></a> 
+    <img src="../images/social_connectedness/heinsberg_connectedness.jpeg" width="80" /> </a> 
 <a href="../images/miscellaneous/emoji_about-ISIS-v-non.html">
     <img src="../images/miscellaneous/emoji_about-ISIS-v-non.jpg" width="90" /></a>
 </p>
