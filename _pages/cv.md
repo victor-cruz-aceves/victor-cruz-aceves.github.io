@@ -61,6 +61,8 @@ TV Appearances
 Data Visualization
 ======
 <p align="middle">
+<a href="../images/rex/cosine_similarity_reich_far_right.png">
+    <img src="../images/rex/cosine_similarity_reich_far_right.png" width="80"/> </a>
 <a href="../images/erame/lda-mallet-10.html">
     <img src="../images/erame/old_topic_model.jpg" width="90" /></a>
 <a href="../images/miscellaneous/emoji_about-ISIS-v-non.html">
