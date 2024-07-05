@@ -9,7 +9,7 @@ redirect_from:
 ---
 <p align="middle">
 <a href="../images/rex/stm-visualization/index.html">
-    <img src="../images/rex/far_right_viz_lemmatta.png" width="90" /></a>
+    <img src="../images/rex/far_right_viz_lemmatta.png" width="110" /></a>
 <a href="../images/v2_s_MOTRA-K-Poster_geschw%C3%A4rzt.jpg"> 
     <img src="../images/v2_s_MOTRA-K-Poster_geschw%C3%A4rzt.jpg" width="60" /> </a>
 <a href="../images/erame/lda-mallet-10.html">
