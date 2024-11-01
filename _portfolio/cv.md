@@ -49,7 +49,7 @@ collection: portfolio
 <a href="../images/book/table_15.png">
     <img src="../images/book/table_15.png" width="240" /></a>
 </p>
-* Cruz-Aceves, Victor (2021a): [Social-Network (Facebook) Connectedness and COVID-19 Outbreak in German Municipalities.](https://www.researchgate.net/publication/348265859_Social-Network_Facebook_Connectedness_and_COVID-19_Outbreak_in_German_Municipalities) (Working paper).
+* Cruz-Aceves, Victor (2021a): [Social-Network (Facebook) Connectedness and COVID-19 Outbreak in German Municipalities.](/files/Cruz_Aceves_2021FacebookCOVIDGermany_wp.pdf) (Working paper).
 <p align="middle">
 <a href="../images/social_connectedness/covid_germany.jpeg">
     <img src="../images/social_connectedness/covid_germany.jpeg" width="240" />  </a>
