@@ -40,11 +40,14 @@ Skills
 
 Publications
 ======
-* Cruz-Aceves, Victor et. al. (2024): [*ERAME & ERAME-REX: automated detection of islamic radicalization in social media*](../images/v2_s_MOTRA-K-Poster_geschwärzt.jpg). Poster/software-demo at the *Monitoringsystem und Transferplattform Radikalisierung* [*(MOTRA-K) Conference*](https://www.motra.info/motra-k-2024/) in Wiesbaden, Germany
-* Cruz-Aceves, Victor; Jost, Jannis (2022): *Automated detection of islamic radicalization in social media*. Presentation at the *Monitoringsystem und Transferplattform Radikalisierung (MOTRA-K)* Conference in Wiesbaden, Germany.
+* Cruz-Aceves, Victor et. al. (2024): [ERAME & ERAME-REX – Monitoring and Machine learning-based evaluation of islamic and right-wing radicalization on social media](../images/v2_s_MOTRA-K-Poster_geschw%C3%A4rzt.jpg). Poster/software-demo at the [*Monitoringsystem und Transferplattform Radikalisierung Conference 2024*](https://www.motra.info/motra-k-2024/) *(MOTRA-K)* in Wiesbaden, Germany
+* Cruz-Aceves, Victor (2023): [Automated identification of islamic radicalization in social media](/files/cruz_wp_motra_2023.pdf). Working paper.
+    * Presented (with Jannis Jost) at the [*Monitoringsystem und Transferplattform Radikalisierung Conference 2022*](https://www.motra.info/motra-k-2022/) (*MOTRA-K*) in Wiesbaden, Germany.
 * **(Book)** Cruz-Aceves, Victor (2021b): [*The Diffusion of Morality Policies. State-Level Comparative Analyses in the United States of America*](https://www.nomos-shop.de/nomos/titel/the-diffusion-of-morality-policies-id-100739/). Publishedd by [*Nomos Publishing*](https://www.nomos.de/en/).
 
-* Cruz-Aceves, Victor (2021a): [*Social-Network (Facebook) Connectedness and COVID-19 Outbreak in German Municipalities*.](https://www.researchgate.net/publication/348265859_Social-Network_Facebook_Connectedness_and_COVID-19_Outbreak_in_German_Municipalities) (Working paper).
+* Cruz-Aceves, Victor (2021a): [Social-Network (Facebook) Connectedness and COVID-19 Outbreak in German Municipalities.](/files/Cruz_Aceves_2021FacebookCOVIDGermany_wp.pdf). Working paper.
+
+* Cruz-Aceves, Victor (2020): [The Role Of Naval Power In Settling Competing Claims About Contested Maritime Areas](/files/Cruz_A_2020_WorldMaritimeBoundariesandNavalPower_WP.pdf). Working Paper.
 
 * Cruz-Aceves, Victor; Mallinson, Daniel (2019): [*Clarifying the Measurement of Relative Ideology in Policy Diffusion Research*](https://journals.sagepub.com/doi/10.1177/0160323X20902818). In [*State and Local Government Review*](https://journals.sagepub.com/home/SLG) 51 (3), pp. 179–186. DOI: 10.1177/0160323X20902818
 
