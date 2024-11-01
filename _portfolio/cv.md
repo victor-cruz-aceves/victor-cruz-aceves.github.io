@@ -8,7 +8,7 @@ collection: portfolio
 
 {% include base_path %}
 
-* Cruz-Aceves, Victor et. al. (2024): **ERAME & ERAME-REX – Monitoring and Machine learning-based evaluation of islamic and right-wing radicalization on social media**. Poster/software-demo at the *Monitoringsystem und Transferplattform Radikalisierung* [*(MOTRA-K) Conference*](https://www.motra.info/motra-k-2024/) in Wiesbaden, Germany
+* Cruz-Aceves, Victor et. al. (2024): **ERAME & ERAME-REX – Monitoring and Machine learning-based evaluation of islamic and right-wing radicalization on social media**. Poster/software-demo at the [*Monitoringsystem und Transferplattform Radikalisierung Conference 2024*](https://www.motra.info/motra-k-2024/) *(MOTRA-K)* in Wiesbaden, Germany
 <p align="middle">
 <a href="../images/rex/stm-visualization/index.html">
     <img src="../images/rex/far_right_viz_lemmatta.png" width="130" /></a>
@@ -25,7 +25,7 @@ collection: portfolio
 </p>
 
 * Cruz-Aceves, Victor (2023): **Automated identification of islamic radicalization in social media**. Working paper.
-    * Presented (with Jannis Jost) at the *Monitoringsystem und Transferplattform Radikalisierung (MOTRA-K)* Conference in Wiesbaden, Germany.
+    * Presented (with Jannis Jost) at the [*Monitoringsystem und Transferplattform Radikalisierung Conference 2022*](https://www.motra.info/motra-k-2022/) (*MOTRA-K*) in Wiesbaden, Germany.
 <p align="middle">
 <a href="../images/erame/lda-mallet-10.html">
     <img src="../images/erame/old_topic_model.jpg" width="90" /></a>
