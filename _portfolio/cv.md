@@ -38,6 +38,7 @@ collection: portfolio
 <a href="../images/motra2022/violins_means.jpg">
     <img src="../images/motra2022/violins_means.jpg" width="200" /></a>
 </p>
+
 * **(Book)** Cruz-Aceves, Victor (2021b): [The Diffusion of Morality Policies. State-Level Comparative Analyses in the United States of America](https://www.nomos-shop.de/nomos/titel/the-diffusion-of-morality-policies-id-100739/). Publishedd by [*Nomos Publishing*](https://www.nomos.de/en/).
 <p align="middle">
 <a href="../images/book/26_coefficient_plot.png"> 
@@ -71,6 +72,7 @@ collection: portfolio
 <a href="../images/2019_article/table_1.jpg">
     <img src="../images/2019_article/table_1.jpg" width="240" /> </a>
 </p>
+
 * Beer, Caroline; Cruz-Aceves, Victor (2018): [Extending Rights to Marginalized Minorities. Same-Sex Relationship Recognition in Mexico and the United States](https://www.cambridge.org/core/journals/state-politics-and-policy-quarterly/article/abs/extending-rights-to-marginalized-minorities-samesex-relationship-recognition-in-mexico-and-the-united-states/A70979049B8F29EA6DA27F69D8A931C7). In [*State Politics & Policy Quarterly*](https://www.cambridge.org/core/journals/state-politics-and-policy-quarterly) 18 (1), pp. 3–26. DOI: 10.1177/1532440017751421
 <p align="middle">
 <a href="../images/2018_article/abstract.png">
@@ -78,6 +80,7 @@ collection: portfolio
 <a href="../images/2018_article/table_1.jpg">
     <img src="../images/2018_article/table_1.jpg" width="120" /> </a>
 </p>
+
 * Cruz-Aceves, Victor (2018): **The Diffusion of Morality Policies**. PhD/Doctoral dissertation. *Christian-Albrechts-Universität zu Kiel* (Germany). Note: [Magna Cum Laude](https://en.wikipedia.org/wiki/Latin_honors#Germany)/[1,1](https://en.wikipedia.org/wiki/Academic_grading_in_Germany#Tertiary_education) (equivalent to [~ 4 GPA in the US](https://en.wikipedia.org/wiki/Academic_grading_in_Germany#Overview))
 <p align="middle">
 <a href="../images/dissertation/2.jpg">
