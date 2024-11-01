@@ -49,7 +49,8 @@ collection: portfolio
 <a href="../images/book/table_15.png">
     <img src="../images/book/table_15.png" width="240" /></a>
 </p>
-* Cruz-Aceves, Victor (2021a): [Social-Network (Facebook) Connectedness and COVID-19 Outbreak in German Municipalities.](/files/Cruz_Aceves_2021FacebookCOVIDGermany_wp.pdf) (Working paper).
+
+* Cruz-Aceves, Victor (2021a): [Social-Network (Facebook) Connectedness and COVID-19 Outbreak in German Municipalities.](/files/Cruz_Aceves_2021FacebookCOVIDGermany_wp.pdf). Working paper.
 <p align="middle">
 <a href="../images/social_connectedness/covid_germany.jpeg">
     <img src="../images/social_connectedness/covid_germany.jpeg" width="240" />  </a>
@@ -60,6 +61,9 @@ collection: portfolio
 <a href="../images/social_connectedness/kiel_freiburg_europe.jpeg">
     <img src="../images/social_connectedness/kiel_freiburg_europe.jpeg" width="160" /> </a>
 </p>
+
+* Cruz-Aceves, Victor (2020): [The Role Of Naval Power In Settling Competing Claims About Contested Maritime Areas](/files/Cruz_A_2020_WorldMaritimeBoundariesandNavalPower_WP.pdf). Working Paper.
+
 * Cruz-Aceves, Victor; Mallinson, Daniel (2019): [Clarifying the Measurement of Relative Ideology in Policy Diffusion Research](https://journals.sagepub.com/doi/10.1177/0160323X20902818). In [*State and Local Government Review*](https://journals.sagepub.com/home/SLG) 51 (3), pp. 179–186. DOI: 10.1177/0160323X20902818
 <p align="middle">
 <a href="../images/2019_article/abstract.png">
