@@ -8,7 +8,7 @@ collection: portfolio
 
 {% include base_path %}
 
-* Cruz-Aceves, Victor et. al. (2025):
+* Cruz-Aceves, Victor et. al. (2025): [ERAME – Erkennung von Radikalisierung in sozialen Medien] 
 
 * Cruz-Aceves, Victor et. al. (2024): [ERAME & ERAME-REX – Monitoring and Machine learning-based evaluation of islamic and right-wing radicalization on social media](../images/v2_s_MOTRA-K-Poster_geschw%C3%A4rzt.jpg). Poster/software-demo at the [*Monitoringsystem und Transferplattform Radikalisierung Conference 2024*](https://www.motra.info/motra-k-2024/) *(MOTRA-K)* in Wiesbaden, Germany
 <p align="middle">
