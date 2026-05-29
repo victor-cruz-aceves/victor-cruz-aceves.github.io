@@ -14,7 +14,7 @@ collection: portfolio
 <a href="../images/Motra2025/gruppenbezogenemenschen-Feindlichkeit.jpg">
     <img src="../images/Motra2025/gruppenbezogenemenschen-Feindlichkeit.jpg" width="150"/> </a>
 <a href="../images/Motra2025/deutschlandkarteabbildung.png">
-    <img src="../images/Motra2025/deutschlandkarteabbildung.png" width="150"/> </a>
+    <img src="../images/Motra2025/deutschlandkarteabbildung.png" width="130"/> </a>
 <a href="../images/Motra2025/polarisierung_gewaltsaffinität.png">
     <img src="../images/Motra2025/polarisierung_gewaltsaffinität.png" width="150"/> </a>
 <a href="../images/Motra2025/demokratieverachtung.jpg">
