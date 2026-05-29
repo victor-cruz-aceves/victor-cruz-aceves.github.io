@@ -12,7 +12,7 @@ collection: portfolio
 
 <p align="middle">
 <a href="../images/Motra2025/gruppenbezogenemenschen-Feindlichkeit.jpg">
-    <img src="../images/Motra2025/gruppenbezogenemenschen-Feindlichkeit.jpg" width="120"/> </a>
+    <img src="../images/Motra2025/gruppenbezogenemenschen-Feindlichkeit.jpg" width="150"/> </a>
 </p>
 
 
