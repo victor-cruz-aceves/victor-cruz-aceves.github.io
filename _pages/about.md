@@ -34,4 +34,4 @@ By clicking on the following links, you will find my [appearances on TV](https:/
 
 Contact
 ======
-If you want to contact me, please use any of the options listed [here](https://www.ispk.uni-kiel.de/en/staff/staff/dr-victor-cruz-aceves).
+If you want to contact me, please use any of the options listed [here](https://www.ispk.uni-kiel.de/de/abteilungen/abteilung-maritime-strategie-und-sicherheit/team/team-einzeln).
