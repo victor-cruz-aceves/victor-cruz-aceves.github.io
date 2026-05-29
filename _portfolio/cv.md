@@ -11,18 +11,8 @@ collection: portfolio
 * Cruz-Aceves, Victor et. al. (2025): [ERAME – Erkennung von Radikalisierung in sozialen Medien](/files/Cruz_etal_Motra_Monitor_23_24.pdf). Chapter in  Kemmesies, et. al. (Eds.) (2025): [*Monitoringsystem und Transferplattform Radikalisierung 2023/24*](https://doi.org/10.57671/ISBN.978-3-911329-01-9_2025_MOTRA). ISBN: 978-3-911329-01-9. MOTRA.
 
 <p align="middle">
-<a href="../images/rex/stm-visualization/index.html">
-    <img src="../images/rex/far_right_viz_lemmatta.png" width="130" /></a>
 <a href="../images/rex/cosine_similarity_reich_far_right.png">
     <img src="../images/rex/cosine_similarity_reich_far_right.png" width="120"/> </a>
-<a href="../images/rex/projektumriss_erame-rex.pdf">
-    <img src="../images/rex/projektumriss_erame-rex.jpg" width="70"/> </a>
-<a href="../images/rex/english_description_rex.pdf">
-    <img src="../images/rex/english_description_rex.jpg" width="70"/> </a>
-<a href="../images/v2_s_MOTRA-K-Poster_geschw%C3%A4rzt.jpg"> 
-    <img src="../images/v2_s_MOTRA-K-Poster_geschw%C3%A4rzt.jpg" width="70" /> </a> 
-<a href="../images/Victor_poster_1S.jpg"> 
-    <img src="../images/Victor_poster_1S.jpg" width="70" /> </a>
 </p>
 
 
