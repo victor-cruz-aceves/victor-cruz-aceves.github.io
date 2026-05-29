@@ -15,6 +15,8 @@ collection: portfolio
     <img src="../images/Motra2025/gruppenbezogenemenschen-Feindlichkeit.jpg" width="150"/> </a>
 <a href="../images/Motra2025/demokratieverachtung.jpg">
     <img src="../images/Motra2025/demokratieverachtung.jpg" width="150"/> </a>
+<a href="../images/Motra2025/demokratieverachtung.jpg">
+    <img src="../images/Motra2025/demokratieverachtung.jpg" width="150"/> </a>
 </p>
 
 
